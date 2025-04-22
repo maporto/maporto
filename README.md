@@ -31,4 +31,4 @@
 </p>
 
 ## 📫 Vamos conectar?
-- LinkedIn: [linkedin.com/in/marcosporto](https://linkedin.com/in/marcos-porto-b035bbba)
+- LinkedIn: [linkedin.com/in/marcos-porto-b035bbba](https://linkedin.com/in/marcos-porto-b035bbba)
