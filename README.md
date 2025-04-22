@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Marcos Porto</h1>
+<h3 align="center">Tech Lead apaixonado por soluções escaláveis e produtos bem feitos</h3>
 
-<!--
-**maporto/maporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Atualmente ocupo o cargo de **Tech Lead na RoutEasy**
+- 🔭 Estou trabalhando em projetos de **automação, logística e infraestrutura escalável**
+- 🌱 Explorando **n8n**, **microserviços**, **k8s** e **arquitetura serverless**
+- ⚡ Fun fact: Escrever código limpo me dá paz 🧘‍♂️
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) 
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maporto&show_icons=true&theme=default" alt="marcosporto" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maporto" />
+</p>
+
+## 📫 Vamos conectar?
+- LinkedIn: [linkedin.com/in/marcosporto](https://linkedin.com/in/marcos-porto-b035bbba)
