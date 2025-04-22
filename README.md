@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat&logo=angular)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
+![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)
 
 ## 📈 GitHub Stats
 <p align="center">
