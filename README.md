@@ -7,11 +7,21 @@
 - ⚡ Fun fact: Escrever código limpo me dá paz 🧘‍♂️
 
 ## 🛠️ Tecnologias e Ferramentas
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![MongoDB Atlas](https://img.shields.io/badge/-Atlas-05122A?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat&logo=angular)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-05122A?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 
 ## 📈 GitHub Stats
 <p align="center">
