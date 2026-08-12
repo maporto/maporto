@@ -3,7 +3,7 @@
 
 - 💼 Atualmente ocupo o cargo de **Tech Lead na RoutEasy**
 - 🔭 Estou trabalhando em projetos de **automação, logística e infraestrutura escalável**
-- 🌱 Explorando **n8n**, **microserviços**, **k8s** e **arquitetura serverless**
+- 🌱 Explorando **microserviços**, **k8s** e **arquitetura serverless**
 - ⚡ Fun fact: Escrever código limpo me dá paz 🧘‍♂️
 
 ## 🛠️ Tecnologias e Ferramentas
